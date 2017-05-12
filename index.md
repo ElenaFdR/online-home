@@ -4,4 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
 ---
-Ahoy!
+Ahoy! Dear reader, be patient: the best is yet to come. Check back sometime soon.
