@@ -3,5 +3,6 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
+nav: true
 ---
 Ahoy! Dear reader, be patient: the best is yet to come. Check back sometime soon.
